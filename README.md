@@ -2,4 +2,4 @@
 
 ## Modulo 1 HTML y CSS
 ### UNIDAD 1: Presentación de HTML y CSS, estructura básica deuna página web, etiquetas básicas
-[TP 1](https://github.com/malenalibman/diplo_utn/tp1/) 
+[TP 1 - Ejercicio 1](https://malenalibman.github.io/diplo_utn/tp1/index.html) 
