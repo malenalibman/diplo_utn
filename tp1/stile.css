@@ -1,8 +1,39 @@
 .cuadrado {
     width: 200px;
     height: 200px;
-    background-color: hotpink;
 }
 body {
     background-color: rgb(32, 218, 156);
+}
+
+#box_red {
+    background-color: red;
+}
+
+#box_yellow {
+    background-color: yellow;
+}
+
+#box_green {
+    background-color: green;
+}
+
+#box_pink {
+    background-color: pink;
+}
+
+#box_indigo {
+    background-color: indigo;
+}
+
+#box_aliceblue {
+    background-color: aliceblue;
+}
+
+#box_grey {
+    background-color: gray;
+}
+
+#box_plum {
+    background-color: plum;
 }
