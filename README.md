@@ -8,6 +8,6 @@
 
 - [TP 1 - Ejercicios varios](https://malenalibman.github.io/diplo_utn/tp1/ejercicio2.html)
 
-- [TP 2](https://github.com/malenalibman/diplo_utn/tp2/index.html)
+- [TP 2](https://malenalibman.github.io/diplo_utn/tp2/index.html)
 
-- [TP 3](https://github.com/malenalibman/diplo_utn/tp3/index.html)
+- [TP 3](https://malenalibman.github.io/diplo_utn/tp3/index.html)
