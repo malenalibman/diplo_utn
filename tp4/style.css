@@ -5,8 +5,8 @@ header {
     align-items: center;
     border-bottom: .5px solid grey;
     margin: 5px;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 15%;
+    margin-right: 15%;
 }
 
 .container {
@@ -21,8 +21,8 @@ main {
     justify-content: space-evenly;
     align-items: flex-start;
     margin-top: 10px;
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 15%;
+    padding-right: 15%;
 }
 
 section {
