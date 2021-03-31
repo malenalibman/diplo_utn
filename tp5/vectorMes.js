@@ -8,7 +8,12 @@ for(let i = 0; i < meses.length; i++) {
         console.log(meses[i]+' que es el mes número '+(i+1)+' del año');
     }
 }
-console.log(dias30);
+
+
+console.log('------------');
+
+
+
 
 var dias30 = "";
 console.log('Meses con 30 días:');
@@ -17,4 +22,4 @@ for(let i = 0; i < meses.length; i++) {
         console.log(meses[i]+' que es el mes número '+(i+1)+' del año');
     }
 }
-console.log(dias30);
+
